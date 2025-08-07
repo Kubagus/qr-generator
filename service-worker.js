@@ -1,7 +1,12 @@
-const CACHE_NAME = 'qr-suite-cache-v2';
+
+const CACHE_NAME = 'qr-suite-cache-v3';
 const urlsToCache = [
   '/',
   '/index.html',
+  '/manifest.json',
+  '/images/icons/icon-192x192.png',
+  '/images/icons/icon-512x512.png',
+  '/images/icons/maskable_icon.png',
   'https://cdn.tailwindcss.com',
   'https://esm.sh/react@^19.1.1',
   'https://esm.sh/react-dom@^19.1.1/client',
