@@ -2,6 +2,7 @@
 {
   "short_name": "QR Suite",
   "name": "QR Code Suite PWA",
+  "description": "A progressive web app to generate, bulk generate, and scan QR codes.",
   "icons": [
     {
       "src": "/images/icons/icon-192x192.png",
@@ -20,6 +21,7 @@
       "purpose": "any maskable"
     }
   ],
+  "id": "/?source=pwa",
   "start_url": "/",
   "display": "standalone",
   "theme_color": "#0f172a",

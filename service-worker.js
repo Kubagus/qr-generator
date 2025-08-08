@@ -1,9 +1,12 @@
 
-const CACHE_NAME = 'qr-suite-cache-v3';
+const CACHE_NAME = 'qr-suite-cache-v4';
 const urlsToCache = [
   '/',
   '/index.html',
   '/manifest.json',
+  '/index.tsx',
+  '/App.tsx',
+  '/components/Icons.tsx',
   '/images/icons/icon-192x192.png',
   '/images/icons/icon-512x512.png',
   '/images/icons/maskable_icon.png',

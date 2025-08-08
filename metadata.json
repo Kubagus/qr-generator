@@ -1,5 +1,8 @@
 {
   "requestFramePermissions": [
     "camera"
-  ]
+  ],
+  "name": "QR Code Suite PWA",
+  "description": "",
+  "prompt": ""
 }
